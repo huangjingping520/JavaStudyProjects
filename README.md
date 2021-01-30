@@ -12,7 +12,7 @@
 ## 特点
 1. 跨平台（write once run anythere）</br>
     Java的跨平台是通过Java虚拟机（JVM/Java Virtual Machine）来实现的
-    ![](https://raw.githubusercontent.com/huangjingping520/PicGo/master/JVM.drawio.png)
+    ![](https://cdn.jsdelivr.net/gh/huangjingping520/PicGo/JVM.drawio.png)
 
 ## JDK、JRE、JVM
     JDk：开发工具包
