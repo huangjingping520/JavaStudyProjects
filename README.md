@@ -6,6 +6,7 @@
 - [JDK语言运行机制](#jdk语言运行机制)
 - [数据类型](#数据类型)
 - [类型转换](#类型转换)
+- [Scanner类的使用](#scanner类的使用)
 
 <!-- /TOC -->
 ## Java 的主要版本
@@ -63,3 +64,11 @@
     3. 基本类型和引用类型间转换
         自动装箱
         自动拆箱
+
+## Scanner类的使用
+    使用步骤：
+        导入包
+            import java.util.scanner;
+        创建Scanner对象
+            Scanner input = new Scanner(Syetem.in);
+        调用Scanner对象的方法，实现读取
