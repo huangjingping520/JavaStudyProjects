@@ -1,16 +1,4 @@
-<!-- TOC -->
-[Java 的主要版本](#java-的主要版本)
-
-[特点](#特点)
-
-[JDK、JRE、JVM](#jdkjrejvm)
-
-[JDK语言运行机制](#jdk语言运行机制)
-
-[数据类型](#数据类型) 
-
-[类型转换](#类型转换)
-<!-- /TOC -->
+<!-- TOC -->autoauto- [Java 的主要版本](#java-的主要版本)auto- [特点](#特点)auto- [JDK、JRE、JVM](#jdkjrejvm)auto- [JDK语言运行机制](#jdk语言运行机制)auto- [数据类型](#数据类型)auto- [类型转换](#类型转换)autoauto<!-- /TOC -->
 ## Java 的主要版本
     SE：
         开发桌面应用程序
