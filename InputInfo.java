@@ -19,6 +19,8 @@ public class InputInfo {
         
         System.out.println("用户名：");
         String username = scan.next();
+
+        scan.nextLine();// 解决nextLine吞掉Enter键的问题
         
         System.out.println("密码：");
         String password = scan.nextLine();
