@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch testint",
+            "request": "launch",
+            "mainClass": "testint",
+            "projectName": "VScodeJavaProject_c2ddad72"
+        },
+        {
+            "type": "java",
             "name": "Launch name",
             "request": "launch",
             "mainClass": "name",
