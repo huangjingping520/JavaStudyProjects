@@ -12,7 +12,18 @@ public class InputInfo {
         Scanner scan = new Scanner(System.in);
 
         //读取内容，调用Scanner对象的方法，实现读取
-        String str = scan.next();
-        System.out.println("用户输入的是："+str);
+        String str1 = scan.next();
+        String str2 = scan.next();
+        System.out.println("用户输入的是："+str1);
+        System.out.println("用户输入的是："+str2);
+        
+        System.out.println("用户名：");
+        String username = scan.next();
+        
+        System.out.println("密码：");
+        String password = scan.nextLine();
+
+        System.out.println("用户名："+username);
+        System.out.println("密码："+password);
     }
 }

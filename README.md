@@ -72,3 +72,11 @@
         创建Scanner对象
             Scanner input = new Scanner(Syetem.in);
         调用Scanner对象的方法，实现读取
+
+    next()与nextLine()的区别
+        next()
+            不包含有效字符前的空格
+            在键入有效字符之后，将其后输入的空格键，Tab键或者Enter键等是为间隔符或者结束符
+        nextLine()
+            包含有效字符前的空格
+            结束符只是Enter键
