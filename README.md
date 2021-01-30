@@ -23,7 +23,7 @@
 
 ## JDK语言运行机制
 ![](https://cdn.jsdelivr.net/gh/huangjingping520/VScodeJavaProject/image/运行机制.drawio.png)
-    javac -- Java语言编译器
+    javac -- Java语言编译器</br>
     java -- Java语言解释器
 
     ...
