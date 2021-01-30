@@ -12,7 +12,7 @@
 ## 特点
 1. 跨平台（write once run anythere）</br>
     Java的跨平台是通过Java虚拟机（JVM/Java Virtual Machine）来实现的
-    ![](https://cdn.jsdelivr.net/gh/huangjingping520/PicGo/JVM.drawio.png)
+![](https://cdn.jsdelivr.net/gh/huangjingping520/PicGo/JVM.drawio.png)
 
 ## JDK、JRE、JVM
     JDk：开发工具包
@@ -22,6 +22,7 @@
     JDK包含JRE，JRE包含JVM
 
 ## JDK语言运行机制
-![](https://raw.githubusercontent.com/huangjingping520/PicGo/master/运行机制.drawio.png)
     javac -- Java语言编译器</br>
     java -- Java语言解释器
+![](https://cdn.jsdelivr.net/gh/huangjingping520/PicGo/运行机制.drawio.png)
+    
