@@ -22,7 +22,7 @@
     JDK包含JRE，JRE包含JVM
 
 ## JDK语言运行机制
-    javac -- Java语言编译器</br>
+    javac -- Java语言编译器
     java -- Java语言解释器
 ![](https://cdn.jsdelivr.net/gh/huangjingping520/PicGo/运行机制.drawio.png)
     
