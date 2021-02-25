@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "VScodeJavaProject_aac92279"
+        },
+        {
+            "type": "java",
             "name": "Launch InputInfo",
             "request": "launch",
             "mainClass": "InputInfo",
