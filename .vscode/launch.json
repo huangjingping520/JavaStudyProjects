@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch operator",
+            "request": "launch",
+            "mainClass": "operator",
+            "projectName": "VScodeJavaProject_c2ddad72"
+        },
+        {
+            "type": "java",
             "name": "Launch hello",
             "request": "launch",
             "mainClass": "hello",

@@ -177,6 +177,33 @@ Java变量是程序中最基本的存储单元，其要素包括变量名、变�
 >
 >​	变量声明是一条完整的语句，因此每一个声明都必须以分号结束
 
+#### 变量作用域
+
+类变量
+
+实例变量
+
+局部变量
+
+[示例](变量作用域.java)
+
+### 常量(Constant)
+
+初始化后不能在改变的值，不会变动的值
+
+```java
+final 常量名 = 值;
+final double PI = 3.14;
+```
+
+常量名一般使用大写字符
+
+### 基本运算符
+
+<img src="https://cdn.jsdelivr.net/gh/huangjingping520/PicGo/Java%E8%BF%90%E7%AE%97%E7%AC%A6.PNG" style="zoom:80%;" />
+
+[示例](operator.java)
+
 ## Hello World
 
 ```java
@@ -191,6 +218,8 @@ public class hello {
 
 
 ## Scanner类的使用
+
+[示例](InputInfo.java)
 
 使用步骤：
     导入包
