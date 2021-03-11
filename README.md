@@ -4,8 +4,16 @@
 - [特点](#特点)
 - [JDK、JRE、JVM](#jdkjrejvm)
 - [JDK语言运行机制](#jdk语言运行机制)
-- [数据类型](#数据类型)
-- [类型转换](#类型转换)
+- [基础](#基础)
+    - [注释](#注释)
+    - [标识符](#标识符)
+    - [数据类型](#数据类型)
+    - [类型转换](#类型转换)
+    - [变量](#变量)
+        - [变量作用域](#变量作用域)
+    - [常量(Constant)](#常量constant)
+    - [基本运算符](#基本运算符)
+- [Hello World](#hello-world)
 - [Scanner类的使用](#scanner类的使用)
 
 <!-- /TOC -->
@@ -42,7 +50,8 @@
 
 ## 基础
 
-### 注释：<font color=red>书写注释是一个良好的习惯</font>
+### 注释
+<font color=red>书写注释是一个良好的习惯</font>
 
 1. 单行注释
 
@@ -206,20 +215,13 @@ final double PI = 3.14;
 
 [自增自减](operator1.java)
 
+[逻辑运算](LogicOperation.java)
 
+[位运算](BitOperation.java)
 
-## Hello World
+### 包机制
 
-```java
-public class hello {
-
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-    }
-}
-```
-
-
+包的本质就是文件夹
 
 ## Scanner类的使用
 
@@ -227,15 +229,15 @@ public class hello {
 
 使用步骤：
     导入包
-        import java.util.scanner;
+        `import java.util.scanner;`
     创建Scanner对象
-        Scanner input = new Scanner(Syetem.in);
+        `Scanner input = new Scanner(Syetem.in);`
     调用Scanner对象的方法，实现读取
 
-next()与nextLine()的区别
-    next()
+`next()`与`nextLine()`的区别
+    `next()`
         不包含有效字符前的空格
         在键入有效字符之后，将其后输入的空格键，Tab键或者Enter键等是为间隔符或者结束符
-    nextLine()
+    `nextLine()`
         包含有效字符前的空格
         结束符只是Enter键
