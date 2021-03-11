@@ -225,7 +225,7 @@ final double PI = 3.14;
 
 ## Scanner类的使用
 
-[示例](InputInfo.java)
+[示例](Scanner/InputInfo.java)
 
 使用步骤：
     导入包
@@ -238,6 +238,13 @@ final double PI = 3.14;
     `next()`
         不包含有效字符前的空格
         在键入有效字符之后，将其后输入的空格键，Tab键或者Enter键等是为间隔符或者结束符
-    `nextLine()`
-        包含有效字符前的空格
-        结束符只是Enter键
+
+​		**`next()`不能得到带有空格的字符串**
+
+​    `nextLine()`
+​        包含有效字符前的空格
+​        结束符只是Enter键
+
+[求和案例](Scanner/Sum.java)
+
+## 顺序结构

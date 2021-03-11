@@ -1,3 +1,5 @@
+package Scanner;
+
 import java.util.Scanner;
 
 public class InputInfo {

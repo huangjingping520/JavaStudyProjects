@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Sum",
+            "request": "launch",
+            "mainClass": "Scanner.Sum",
+            "projectName": "VScodeJavaProject_c2ddad72"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo1",
+            "request": "launch",
+            "mainClass": "Scanner.Demo1",
+            "projectName": "VScodeJavaProject_c2ddad72"
+        },
+        {
+            "type": "java",
             "name": "Launch LogicOperation",
             "request": "launch",
             "mainClass": "LogicOperation",
