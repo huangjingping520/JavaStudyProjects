@@ -5,4 +5,5 @@ public class 变量作用域 {
     public void method() {
         int i = 0;    // 局部变量  
     }
+
 }
