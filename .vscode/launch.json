@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ChooseIf3",
+            "request": "launch",
+            "mainClass": "struct.ChooseIf3",
+            "projectName": "VScodeJavaProject_c2ddad72"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChooseIf2",
+            "request": "launch",
+            "mainClass": "struct.ChooseIf2",
+            "projectName": "VScodeJavaProject_c2ddad72"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChooseIf",
+            "request": "launch",
+            "mainClass": "struct.ChooseIf",
+            "projectName": "VScodeJavaProject_c2ddad72"
+        },
+        {
+            "type": "java",
             "name": "Launch Sum",
             "request": "launch",
             "mainClass": "Scanner.Sum",

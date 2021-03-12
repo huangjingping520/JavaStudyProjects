@@ -247,4 +247,3 @@ final double PI = 3.14;
 
 [求和案例](Scanner/Sum.java)
 
-## 顺序结构
