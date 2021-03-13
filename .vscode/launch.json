@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ArrayDemo6",
+            "request": "launch",
+            "mainClass": "Array.ArrayDemo6",
+            "projectName": "VScodeJavaProject_c2ddad72"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayDemo5",
+            "request": "launch",
+            "mainClass": "Array.ArrayDemo5",
+            "projectName": "VScodeJavaProject_c2ddad72"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayDemo4",
+            "request": "launch",
+            "mainClass": "Array.ArrayDemo4",
+            "projectName": "VScodeJavaProject_c2ddad72"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayDemo1",
+            "request": "launch",
+            "mainClass": "Array.ArrayDemo1",
+            "projectName": "VScodeJavaProject_c2ddad72"
+        },
+        {
+            "type": "java",
             "name": "Launch Recursion",
             "request": "launch",
             "mainClass": "method.Recursion",
