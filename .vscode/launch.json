@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ArrayDeao3",
+            "request": "launch",
+            "mainClass": "Array.ArrayDeao3",
+            "projectName": "VScodeJavaProject_c2ddad72"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayDemo8",
+            "request": "launch",
+            "mainClass": "Array.ArrayDemo8",
+            "projectName": "VScodeJavaProject_c2ddad72"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayDemo7",
+            "request": "launch",
+            "mainClass": "Array.ArrayDemo7",
+            "projectName": "VScodeJavaProject_c2ddad72"
+        },
+        {
+            "type": "java",
             "name": "Launch ArrayDemo6",
             "request": "launch",
             "mainClass": "Array.ArrayDemo6",
